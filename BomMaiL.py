@@ -1,6 +1,11 @@
 #!/usr/bin/python
 #BomMail
 
+############################
+# Facebook: https://fb.me/Kalipentesting
+# Twitter : @Kalipentesting
+############################
+
 import os
 import smtplib
 import getpass
