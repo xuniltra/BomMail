@@ -6,7 +6,7 @@ import smtplib
 import getpass
 import sys
 import time
-from colorama import init, Style, Back, Fore
+#from colorama import init, Style, Back, Fore
 
 print """
 
